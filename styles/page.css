@@ -1,0 +1,43 @@
+@import url(main.css);
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    border: solid red;
+  }
+  
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:xx-large;
+    color: #de041c;
+    font-size: 60px;
+    font-weight: 900;
+  }
+
+.subtitle {
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: x-large;
+    font-size: 35px;
+    font-weight: 900;
+    color: white;
+}
+
+.smalltext {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
+.img {
+    height: 10%;
+  }
