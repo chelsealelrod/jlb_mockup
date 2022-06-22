@@ -1,0 +1,59 @@
+@import url(page.css);
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Kalam:wght@300&family=Squada+One&display=swap');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+
+h2 {
+    /* text-transform: uppercase; */
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    font-size: 2.5rem;
+}
+
+h3 {
+    /* text-transform: uppercase; */
+    font-family: 'Alegreya Sans', sans-serif;
+    letter-spacing: 2px;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    font-size: 11pt;
+}
+
+p {
+    font-size: 17pt;
+}
+
+strong {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    font-size: 20pt;
+}
+
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
