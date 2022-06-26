@@ -6,7 +6,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin-top: 1em;
     margin-bottom: 1em;
-    background: url("./images/SPLASH_WATERMARK.png") no-repeat fixed center / cover;
+    background-image: url("./images/SPLASH_WATERMARK.png");
 }
 
 
@@ -14,13 +14,14 @@ h1 {
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
+    font-size: 1.5rem;
 }
 
 h2 {
     /* text-transform: uppercase; */
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 3px;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 h3 {
