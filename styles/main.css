@@ -6,6 +6,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin-top: 1em;
     margin-bottom: 1em;
+    background: url("./images/SPLASH_WATERMARK.png") no-repeat fixed center / cover;
 }
 
 
@@ -36,7 +37,7 @@ h4 {
 }
 
 p {
-    font-size: 17pt;
+    font-size: 11pt;
 }
 
 strong {
