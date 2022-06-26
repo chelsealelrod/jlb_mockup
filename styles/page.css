@@ -74,19 +74,14 @@
   flex-wrap: wrap;
 }
 
-.welcome_title {
-  display: flex;
-  flex-direction:row-reverse;
-  padding: 3em;
-}
 
 .line2 {
   display: flex;
   flex-direction: row-reverse;
   border-bottom: 4px solid white;
-  margin-top: 1px;
+  margin-top: 30px;
   margin-bottom: 1px;
-  width: 180%;
+  width: 280%;
   height: 10%;
 }
 
@@ -94,9 +89,9 @@
   display: flex;
   flex-direction: row-reverse;
   text-align:justify;
-  margin-bottom: 100px;
-  margin-left: 670px;
-  margin-top: -300px;
+  margin-bottom: 80px;
+  margin-left: 620px;
+  margin-top: 100px;
   padding: 1em;
 }
 
@@ -106,8 +101,23 @@
   margin-left: 5px;
 }
 
-.wel_line1 {
+.wel_title1 {
   display: flex;
   flex-direction:row-reverse;
   padding: 3em;
+  margin-top: -425px;
+  margin-bottom: -90px;
+  margin-left: 150px;
+  margin-right: 120px;
+}
+
+.wel_title2 {
+  display: flex;
+  flex-direction:row-reverse;
+  padding: 3em;
+  margin-top: -100px;
+  margin-bottom: -200px;
+  margin-left: 300px;
+  margin-right: 100px;
+  color: #de041c
 }
